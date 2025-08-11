@@ -10,8 +10,8 @@ node_modules/
 Thumbs.db
 
 # Env files
-.env*
-!.env.example
+# .env*
+# !.env.example
 
 # Log files
 npm-debug.log*
@@ -37,7 +37,7 @@ coverage/
 *.lcov
 
 # Misc
-*.local
+# *.local
 *.log
 
 # Production build
